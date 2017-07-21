@@ -11,4 +11,4 @@ VOLUME /project
 
 WORKDIR /project
 
-ENTRYPOINT ["ansible", "--version" ]
+ENTRYPOINT ["ansible-playbook"]
