@@ -17,7 +17,7 @@ To build the image from source:
 ```
 $ git clone https://github.com/coroin/apb.git
 $ cd apb
-$ sudo docker build -t="coroin/apb" .
+$ sudo docker build -t coroin/apb .
 ```
 
 ### Usage Examples
